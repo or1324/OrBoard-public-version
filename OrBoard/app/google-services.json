@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "872310626999",
+    "firebase_url": "https://orboard-6ae79-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "orboard-6ae79",
+    "storage_bucket": "orboard-6ae79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872310626999:android:2435bdf04a0b84f13ccb32",
+        "android_client_info": {
+          "package_name": "or.nevet.orboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872310626999-h9oa2fkeg6sjd05pdle9551hfv8tabfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "or.nevet.orboard",
+            "certificate_hash": "7d4288aa3fec13f958b12e5394ea32c9a455962d"
+          }
+        },
+        {
+          "client_id": "872310626999-7188eat8bkhn2o283a7t3f2rhrlnkre2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_I7y3lkkKe13qu6VqPuowg1snSlp7kng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872310626999-7188eat8bkhn2o283a7t3f2rhrlnkre2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
